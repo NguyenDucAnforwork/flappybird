@@ -1,6 +1,11 @@
 # Flappybird
  Here, I will simulate the process of creating the famous Flappy Bird game using Python. This game is relatively simple, consisting of just over a hundred lines of code, making it suitable for beginners.
 
+# We will learn how to: 
+1. Work with basic commands in the Pygame library (drawing and displaying shapes; text); check the collision between 2 objects.
+2. Apply some knowledge of mechanics in physics. 
+3. Understand more about how FPS works and how to create motion.
+
 # Here is an outline of the steps involved:
 
 1. Import the necessary modules, initialize Pygame, set up the game window and define the game's dimensions and load the game assets.
